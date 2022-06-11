@@ -7,5 +7,5 @@ import (
 
 func Runner(){
 	ask.Ask()
-	fmt.Println("run man")
+	fmt.Println("run man brof")
 }
